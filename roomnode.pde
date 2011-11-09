@@ -55,6 +55,7 @@
 //
 //  Initial value for the hartbeat : 1000 ms / can be changed by command 'H'  to value
 //
+//
 //  Initial values for the multipliers :
 //  T : 2 sec // temperature every hartbeat * 2 seconds
 //  RH : 4 sec // relative humidity every hartbeat * 4 seconds
